@@ -17,7 +17,7 @@ This project was independently developed as part of a Software System Design cou
 
 ### Setup:
 
-1. Download the latest release and sample stock data.
+1. Download the latest release and sample stock data from the [Releases page](https://github.com/2-adic/Market-Fib/releases/latest).
 
 2. Decompress the `.zip` file(s).
 
@@ -96,7 +96,7 @@ The following delimiters are supported: `,`, `;`, `\t` (tab), `|`, and `^`.
 
 ### Sample Data:
 
-Sample stock data is available in the `sample-data` directory which can be downloaded download from the Releases page.
+Sample stock data is available in the `sample-data` directory which can be downloaded download from the [Releases page](https://github.com/2-adic/Market-Fib/releases/latest).
 
 The included "AAPL", "AMZN", "MSFT", and "NVDA" CSV files contain real stock data from 2020 to 2021. These stocks can be used for wave analysis. They are examples of datasets that do not include time information (e.g., hours/minutes/seconds).
 
@@ -108,4 +108,7 @@ Download the **Visual Studio 2022 (Community Edition)** on the [official Visual 
 
 Select the **.NET desktop development** workload and click the install button.
 
-Download or clone this repository, then open the solution by double-clicking the `MarketFib.sln` file.
+Press the **Clone a repository** button and enter the URL shown below.
+```
+https://github.com/2-adic/Market-Fib.git
+```
