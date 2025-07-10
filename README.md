@@ -32,9 +32,9 @@ Selector Window:
 - Adjust the start/end dates, and then choose the window type.
 
 - Select the `.csv` file(s) to analyze.
-    > [!IMPORTANT]
-    > CSV files must be formatted correctly.<br>
-    > Refer to the [File Format](#File-Format) section below for detailed requirements.
+> [!IMPORTANT]
+> CSV files must be formatted correctly.<br>
+> Refer to the [File Format](#File-Format) section below for detailed requirements.
 
 Once the CSV files are chosen, one or more windows will open to display the stock data using candlestick charts.
 
