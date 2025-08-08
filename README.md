@@ -4,6 +4,8 @@
 
 Market-Fib is a Windows Forms application designed for the analysis of Fibonacci retracement levels within stock price data. It provides an interactive approach to wave analysis, allowing users to manually select wave structures. The alignment scores for these selected wave structures are shown visually, which lets users see which wave structures are historically significant.
 
+<img width="925" height="653" alt="Window-Stock" src="https://github.com/user-attachments/assets/dde8e013-f39e-4440-987b-f0e85a8c146a" />
+
 ### Info:
 
 Market-Fib was developed using C# in Microsoft Visual Studio. As a Windows Form application, it is only compatible with Windows systems.
@@ -29,9 +31,14 @@ When launched, the application displays a window prompting the user user to sele
 
 Selector Window:
 
+<img width="232" height="263" alt="Window-Selector" src="https://github.com/user-attachments/assets/2e56a0ed-506e-489b-888c-e5c167e0985a" />
+
 - Adjust the start/end dates, and then choose the window type.
 
 - Select the `.csv` file(s) to analyze.
+
+<img width="805" height="533" alt="Window-FilePicker" src="https://github.com/user-attachments/assets/7b902668-5cb4-499e-8b7b-3b1012da6ff1" /><br>
+
 > [!IMPORTANT]
 > CSV files must be formatted correctly.<br>
 > Refer to the [File Format](#File-Format) section below for detailed requirements.
@@ -39,6 +46,8 @@ Selector Window:
 Once the CSV files are chosen, one or more windows will open to display the stock data using candlestick charts.
 
 Stock Analyzer Window:
+
+<img width="925" height="653" alt="Window-Stock-Init" src="https://github.com/user-attachments/assets/5e2c110c-41e1-42bd-8851-eab5f98b565f" />
 
 - Adjust the start/end dates if needed.
 
